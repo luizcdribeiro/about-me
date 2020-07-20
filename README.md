@@ -13,9 +13,6 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" />
 
 ### Eu sou Luiz Carlos Ribeiro
-- An ML & Open Source enthusiast.
-- A Computer Engineering Undergraduate Student. 
-- Currently working on some of my cool side projects based on Web Development and Machine Learning.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+Sou Desenvolvedor Front End desde 2017, trabalho atualmente como Front End Pleno, com stacks diversas, atuando tambem no desenvolvimento de interfaces e experiência do usuário na Lumis Tecnologia, empresa focada na experiência única do usuário (https://www.lumis.com.br/). Eu amo aprender, conhecer coisas novas e ensinar a quem tem duvidas. Sou estudante de Analise e Desenvolvimento de Sistemas 👨‍💻  e apaixonado por Javascript e seus frameworks 🌱
 
 ⭐️ From [luizcdribeiro](https://github.com/luizcdribeiro)
