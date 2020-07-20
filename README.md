@@ -15,6 +15,7 @@ Eu sou Luiz Carlos Ribeiro, sou Desenvolvedor Front End desde 2017, trabalho atu
 🤔 Eu amo aprender, conhecer coisas novas e ensinar a quem tem duvidas <br>
 👨‍💻 Sou estudante de Analise e Desenvolvimento de Sistemas <br>
 🌱 Apaixonado por Javascript e seus frameworks <br>
+🍺 Meus hobbys são filmes, séries, cinema e futebol
 <br /><br/>
 <img align="center" alt="GIF" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" />
 ⭐️ From [luizcdribeiro](https://github.com/luizcdribeiro)
