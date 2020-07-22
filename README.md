@@ -18,6 +18,6 @@ Eu sou Luiz Carlos Ribeiro, sou Desenvolvedor Front End desde 2017, trabalho atu
 🍺 Meus hobbys são filmes, séries, cinema e futebol
 <br /><br/>
 <div style="text-align: center">
-  <img align="center" width: "150" alt="GIF" src="https://media.giphy.com/media/bAplZhiLAsNnG/giphy.gif" />
+  <img align="center"  alt="GIF" src="https://media.giphy.com/media/bAplZhiLAsNnG/giphy.gif" style="max-width: 100%; width: 400px; text-align: center; border-radius: 15px; margin-bottom: 20px;" />
 </div>
 ⭐️ From [luizcdribeiro](https://github.com/luizcdribeiro)
