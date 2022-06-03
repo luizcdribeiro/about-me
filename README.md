@@ -1,4 +1,4 @@
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" style="width: 30px;"></h2>
 
 <a href="https://twitter.com/luizjuniordant1">
   <img align="left" alt="Ajay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -17,7 +17,7 @@ Eu sou Luiz Carlos Ribeiro, sou Desenvolvedor Front End desde 2017, trabalho atu
 🌱 Apaixonado por Javascript e seus frameworks <br>
 🍺 Meus hobbys são filmes, séries, cinema e futebol
 <br /><br/>
-<div align="center" style="max-width: 200px; width: 200px; text-align: center; border-radius: 15px; margin-bottom: 20px;">
+<div align="center" style="max-width: 100%; width: 200px; text-align: center; border-radius: 15px; margin-bottom: 20px;">
   <img align="center"  alt="GIF" src="https://media.giphy.com/media/bAplZhiLAsNnG/giphy.gif" />
 </div>
 ⭐️ From [luizcdribeiro](https://github.com/luizcdribeiro)
