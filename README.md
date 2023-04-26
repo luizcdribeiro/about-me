@@ -10,14 +10,14 @@
   <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br /><br/>
-Eu sou Luiz Carlos Ribeiro, sou Desenvolvedor Front End desde 2017, trabalho atualmente como Front End Pleno, com stacks diversas, atuando tambem no desenvolvimento de interfaces e experiência do usuário.
+Eu sou Luiz Carlos Ribeiro, sou Desenvolvedor Front End desde 2018, trabalho atualmente como Front End Pleno, com stacks diversas, atuando tambem no desenvolvimento de interfaces e experiência do usuário.
 <br><br>
 🤔 Eu amo aprender, conhecer coisas novas e ensinar a quem tem duvidas <br>
 👨‍💻 Sou estudante de Analise e Desenvolvimento de Sistemas <br>
 🌱 Apaixonado por Javascript e seus frameworks <br>
 🍺 Meus hobbys são filmes, séries, cinema e futebol
 <br /><br/>
-<div align="center" style="max-width: 100%; width: 200px; text-align: center; border-radius: 15px; margin-bottom: 20px;">
+<div align="center" style="max-width: 100%; width: 150px; text-align: center; border-radius: 15px; margin-bottom: 20px;">
   <img align="center"  alt="GIF" src="https://media.giphy.com/media/bAplZhiLAsNnG/giphy.gif" />
 </div>
 ⭐️ From [luizcdribeiro](https://github.com/luizcdribeiro)
