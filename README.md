@@ -17,7 +17,8 @@ Eu sou Luiz Carlos Ribeiro, sou Desenvolvedor Front End desde 2018, trabalho atu
 🌱 Apaixonado por Javascript e seus frameworks <br>
 🍺 Meus hobbys são filmes, séries, cinema e futebol
 <br /><br/>
-<div align="center" style="max-width: 80%; width: 150px; text-align: center; border-radius: 15px; margin-bottom: 20px;">
-  <img align="center"  alt="GIF" src="https://media.giphy.com/media/bAplZhiLAsNnG/giphy.gif" />
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luizcdribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcdribeiro&layout=compact&langs_count=7&theme=dark"/>
 </div>
 ⭐️ From [luizcdribeiro](https://github.com/luizcdribeiro)
