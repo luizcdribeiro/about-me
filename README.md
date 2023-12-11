@@ -10,7 +10,7 @@
   <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br /><br/>
-Eu sou Luiz Carlos Ribeiro, sou Desenvolvedor Front End desde 2018, trabalho atualmente como Front End Pleno, com stacks diversas, atuando tambem no desenvolvimento de interfaces e experiência do usuário.
+Eu sou Luiz Carlos Ribeiro, sou Desenvolvedor Front End desde 2018, trabalho atualmente como Front End, com stacks como React e Angular, atuando tambem no desenvolvimento de interfaces e experiência do usuário.
 <br><br>
 🤔 Eu amo aprender, conhecer coisas novas e ensinar a quem tem duvidas <br>
 👨‍💻 Sou estudante de Analise e Desenvolvimento de Sistemas <br>
